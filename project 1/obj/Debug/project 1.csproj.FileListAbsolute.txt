@@ -1,0 +1,35 @@
+D:\project 1\project 1\bin\Debug\project 1.exe.config
+D:\project 1\project 1\bin\Debug\project 1.exe
+D:\project 1\project 1\bin\Debug\project 1.pdb
+D:\project 1\project 1\obj\Debug\project 1.csproj.AssemblyReference.cache
+D:\project 1\project 1\obj\Debug\project_1.Form1.resources
+D:\project 1\project 1\obj\Debug\project_1.Properties.Resources.resources
+D:\project 1\project 1\obj\Debug\project 1.csproj.GenerateResource.cache
+D:\project 1\project 1\obj\Debug\project 1.csproj.CoreCompileInputs.cache
+D:\project 1\project 1\obj\Debug\project 1.exe
+D:\project 1\project 1\obj\Debug\project 1.pdb
+D:\project 1\project 1\obj\Debug\project_1.login.resources
+D:\project 1\project 1\obj\Debug\project_1.Sing_Up.resources
+D:\project 1\project 1\obj\Debug\project_1.home.resources
+D:\project 1\project 1\obj\Debug\project_1.course_info.resources
+D:\project 1\project 1\obj\Debug\project_1.department_info.resources
+D:\project 1\project 1\obj\Debug\project_1.Doctor_info.resources
+D:\project 1\project 1\obj\Debug\project_1.student_info.resources
+D:\IT\Practical\GUI\College Data\project 1\bin\Debug\project 1.exe.config
+D:\IT\Practical\GUI\College Data\project 1\bin\Debug\project 1.exe
+D:\IT\Practical\GUI\College Data\project 1\bin\Debug\project 1.pdb
+D:\IT\Practical\GUI\College Data\project 1\obj\Debug\project 1.csproj.AssemblyReference.cache
+D:\IT\Practical\GUI\College Data\project 1\obj\Debug\project 1.csproj.SuggestedBindingRedirects.cache
+D:\IT\Practical\GUI\College Data\project 1\obj\Debug\project_1.course_info.resources
+D:\IT\Practical\GUI\College Data\project 1\obj\Debug\project_1.department_info.resources
+D:\IT\Practical\GUI\College Data\project 1\obj\Debug\project_1.Doctor_info.resources
+D:\IT\Practical\GUI\College Data\project 1\obj\Debug\project_1.Form1.resources
+D:\IT\Practical\GUI\College Data\project 1\obj\Debug\project_1.home.resources
+D:\IT\Practical\GUI\College Data\project 1\obj\Debug\project_1.login.resources
+D:\IT\Practical\GUI\College Data\project 1\obj\Debug\project_1.Properties.Resources.resources
+D:\IT\Practical\GUI\College Data\project 1\obj\Debug\project_1.Sing_Up.resources
+D:\IT\Practical\GUI\College Data\project 1\obj\Debug\project_1.student_info.resources
+D:\IT\Practical\GUI\College Data\project 1\obj\Debug\project 1.csproj.GenerateResource.cache
+D:\IT\Practical\GUI\College Data\project 1\obj\Debug\project 1.csproj.CoreCompileInputs.cache
+D:\IT\Practical\GUI\College Data\project 1\obj\Debug\project 1.exe
+D:\IT\Practical\GUI\College Data\project 1\obj\Debug\project 1.pdb
